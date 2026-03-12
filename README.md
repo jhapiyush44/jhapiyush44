@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Piyush Jha 👋
 
-<!--
-**jhapiyush44/jhapiyush44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI / ML Engineer focused on building intelligent systems and scalable AI applications.
 
-Here are some ideas to get you started:
+## Interests
+- Large Language Models (LLMs)
+- AI Systems Engineering
+- Machine Learning Pipelines
+- Applied AI & Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+Python | FastAPI | Flask | Docker | SQL | Scikit-learn | Pandas
+
+## Featured Projects
+
+### LLM Code Deployment Pipeline
+Backend system for deploying LLM inference pipelines with FastAPI and caching.
+
+### Vehicle Telemetry ML Pipeline
+End-to-end machine learning pipeline for vehicle telemetry data including feature engineering, training, and API deployment.
+
+### Cinema Audience Forecasting
+Time-series forecasting using XGBoost and ML techniques.
+
+## GitHub Stats
+(You can add GitHub stats widgets here)
