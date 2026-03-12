@@ -22,5 +22,4 @@ End-to-end machine learning pipeline for vehicle telemetry data including featur
 ### Cinema Audience Forecasting
 Time-series forecasting using XGBoost and ML techniques.
 
-## GitHub Stats
-(You can add GitHub stats widgets here)
+
